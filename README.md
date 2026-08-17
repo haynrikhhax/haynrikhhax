@@ -37,15 +37,19 @@ Full Stack Software Engineer with 6+ years of experience in building and maintai
   <a href="https://www.forbes.com/">
     Forbest.com
   </a>
+  <br>
   <a href="https://www.dealcode.ai/">
     Dealcode.ai
   </a>
+  <br>
   <a href="https://casemanage.co/">
     Lemon Law
   </a>
+  <br>
   <a href="https://chalkboard.io/">
     Chalboard
   </a>
+  <br>
   <a href="https://ota.am/lost-in-sky/">
     Lost In Sky
   </a>
