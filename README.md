@@ -33,16 +33,16 @@ Full Stack Software Engineer with 6+ years of experience in building and maintai
 ## 🗂️ Featured projects
 <div align="center" style="display:flex; justify-content: space-around; flex-wrap:no-wrap">
   <a href="https://github.com/haynrikhhax/momeliin-ui" max-width="48%">
-    <img align="center" height="150em" width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=hrachgalstyan&repo=postgres-rest&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116" alt="postgres-rest"   />
+    <img align="center" height="150em" width="48%" src="https://img.shields.io/badge/-React-05122A?style=flat&logo=react" alt="Momelin UI"   />
   </a>
   <a href="https://github.com/haynrikhhax/momeliin-be" max-width="48%">
-    <img align="center" height="150em" width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=hrachgalstyan&repo=nest-rabbitMQ-math&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116" alt="nest-rabbitMQ-math" />
+    <img align="center" height="150em" width="48%" src="https://img.shields.io/badge/-NestJS-05122A?style=flat-square&logo=nestjs&logoColor=880808" alt="Momelin BE" />
   </a>
-  <a href="https://github.com/development-mlaw/lemon-managing" max-width="48%">
-    <img align="center" height="150em" width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=hrachgalstyan&repo=express-sequelize&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116" alt="express-sequelize" />
+  <a href="https://casemanage.co/" max-width="48%">
+    <img align="center" height="150em" width="48%" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fpng.pngtree.com%2Fpng-clipart%2F20240625%2Foriginal%2Fpngtree-lemon-icon-vector-illustration-png-image_15407372.png&f=1&nofb=1&ipt=4f10ea6e0e4db5e4c623b141070e545fe88bfe4134a420c788c41c59766a7059" alt="Lemon Managing" />
   </a>
-  <a href="[https://www.dealcode.ai/](https://casemanage.co/)" max-width="48%">
-    <img align="center" height="150em" width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=hrachgalstyan&repo=nestjs&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116" alt="nestjs" />
+  <a href="https://www.dealcode.ai/" max-width="48%">
+    <img align="center" height="150em" width="48%" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia.licdn.com%2Fdms%2Fimage%2Fv2%2FD4E0BAQFYKuiuibT3EQ%2Fcompany-logo_200_200%2Fcompany-logo_200_200%2F0%2F1708708388229%2Fdealcode_logo%3Fe%3D2147483647%26v%3Dbeta%26t%3DrPIisaISiVEfuwoncjJWKWwMSkaIHrKgXY_4LxGKWUs&f=1&nofb=1&ipt=a3de8807b8e689bd08f1a6b0d29db657705d1227554b4feadede6460c87457f5" alt="Dealcode AI" />
   </a>
 </div>
 
@@ -57,8 +57,8 @@ Technologies that I've been learning and I've picked up along my programming jou
 ![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
 ![SCSS](https://img.shields.io/badge/-SCSS-black?style=flat-square&logo=SASS)
-![Ant Design](https://img.shields.io/badge/-SCSS-black?style=flat-square&logo=ant-design)
-![Tailwind CSS](https://img.shields.io/badge/-SCSS-black?style=flat-square&logo=tailwind)
+![Ant Design](https://img.shields.io/badge/-Ant_Design-black?style=flat-square&logo=ant-design)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind-blue?style=flat-square&logo=tailwind)
 ![Material_UI](https://img.shields.io/badge/-Material_UI-black?style=flat-square&logo=material-ui)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=bootstrap)
 
