@@ -34,17 +34,20 @@ Full Stack Software Engineer with 6+ years of experience in building and maintai
 
 ## 🗂️ Featured projects
 <div align="center" style="display:flex; justify-content: space-around; flex-wrap:no-wrap">
-  <a href="https://github.com/haynrikhhax/momeliin-ui" max-width="48%">
-    <img align="center" height="150em" width="48%" src="https://img.shields.io/badge/-React-05122A?style=flat&logo=react" alt="Momelin UI"   />
+  <a href="https://www.forbes.com/">
+    ![Forbest.com]
   </a>
-  <a href="https://github.com/haynrikhhax/momeliin-be" max-width="48%">
-    <img align="center" height="150em" width="48%" src="https://img.shields.io/badge/-NestJS-05122A?style=flat-square&logo=nestjs&logoColor=880808" alt="Momelin BE" />
+  <a href="https://www.dealcode.ai/">
+    ![Dealcode.ai]
   </a>
-  <a href="https://casemanage.co/" max-width="48%">
-    <img align="center" height="150em" width="48%" src="https://img.shields.io/badge/-NestJS-05122A?style=flat-square&logo=nestjs&logoColor=880808" alt="Lemon Managing" />
+  <a href="https://casemanage.co/">
+    ![Lemon Law]
   </a>
-  <a href="https://www.dealcode.ai/" max-width="48%">
-    <img align="center" height="150em" width="48%" src="https://img.shields.io/badge/-NestJS-05122A?style=flat-square&logo=nestjs&logoColor=880808" alt="Dealcode AI" />
+  <a href="https://chalkboard.io/">
+    ![Chalboard]
+  </a>
+  <a href="https://ota.am/lost-in-sky/">
+    ![Lost In Sky]
   </a>
 </div>
 
@@ -60,7 +63,7 @@ Technologies that I've been learning and I've picked up along my programming jou
 ![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
 ![SCSS](https://img.shields.io/badge/-SCSS-black?style=flat-square&logo=SASS)
 ![Ant Design](https://img.shields.io/badge/-Ant_Design-black?style=flat-square&logo=ant-design)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind-blue?style=flat-square&logo=tailwind)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind-black?style=flat-square&logo=tailwind)
 ![Material_UI](https://img.shields.io/badge/-Material_UI-black?style=flat-square&logo=material-ui)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=bootstrap)
 
