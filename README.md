@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue&link=https://www.linkedin.com/in/haynrikh-santrosyan-655096222/)](https://www.linkedin.com/in/haynrikh-santrosyan-655096222/) 
+📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=white&link=https://www.linkedin.com/in/haynrikh-santrosyan-655096222/)](https://www.linkedin.com/in/haynrikh-santrosyan-655096222/) 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:haynrikhsantrosyan@gmail.com)](mailto:haynrikhsantrosyan@gmail.com)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-1877f2?style=flat&logo=telegram&logoColor=white&link=https://t.me/HaynrikhSantrosyan)](https://t.me/HaynrikhSantrosyan)
 
@@ -17,6 +17,8 @@ Full Stack Software Engineer with 6+ years of experience in building and maintai
 
 ![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=typescript&logoColor=blue&color=6aa6f8)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=yellow&color=6aa6f8)
+
 
 ### ⚙️ &nbsp;GitHub Analytics
 
@@ -39,10 +41,10 @@ Full Stack Software Engineer with 6+ years of experience in building and maintai
     <img align="center" height="150em" width="48%" src="https://img.shields.io/badge/-NestJS-05122A?style=flat-square&logo=nestjs&logoColor=880808" alt="Momelin BE" />
   </a>
   <a href="https://casemanage.co/" max-width="48%">
-    <img align="center" height="150em" width="48%" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fpng.pngtree.com%2Fpng-clipart%2F20240625%2Foriginal%2Fpngtree-lemon-icon-vector-illustration-png-image_15407372.png&f=1&nofb=1&ipt=4f10ea6e0e4db5e4c623b141070e545fe88bfe4134a420c788c41c59766a7059" alt="Lemon Managing" />
+    <img align="center" height="150em" width="48%" src="https://img.shields.io/badge/-NestJS-05122A?style=flat-square&logo=nestjs&logoColor=880808" alt="Lemon Managing" />
   </a>
   <a href="https://www.dealcode.ai/" max-width="48%">
-    <img align="center" height="150em" width="48%" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia.licdn.com%2Fdms%2Fimage%2Fv2%2FD4E0BAQFYKuiuibT3EQ%2Fcompany-logo_200_200%2Fcompany-logo_200_200%2F0%2F1708708388229%2Fdealcode_logo%3Fe%3D2147483647%26v%3Dbeta%26t%3DrPIisaISiVEfuwoncjJWKWwMSkaIHrKgXY_4LxGKWUs&f=1&nofb=1&ipt=a3de8807b8e689bd08f1a6b0d29db657705d1227554b4feadede6460c87457f5" alt="Dealcode AI" />
+    <img align="center" height="150em" width="48%" src="https://img.shields.io/badge/-NestJS-05122A?style=flat-square&logo=nestjs&logoColor=880808" alt="Dealcode AI" />
   </a>
 </div>
 
